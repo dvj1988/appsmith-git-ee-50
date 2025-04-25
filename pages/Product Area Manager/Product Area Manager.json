@@ -1,0 +1,33 @@
+{
+  "gitSyncId": "64883535100b590b196f58e0_8db8615f-568a-4e54-8414-226de35367fc",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 860.0,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0.0,
+          "minHeight": 900.0,
+          "parentColumnSpace": 1.0,
+          "parentRowSpace": 1.0,
+          "rightColumn": 1174.0,
+          "snapColumns": 64.0,
+          "snapRows": 125.0,
+          "topRow": 0.0,
+          "type": "CANVAS_WIDGET",
+          "version": 92.0,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Product Area Manager",
+    "slug": "product-area-manager"
+  }
+}

@@ -33,7 +33,7 @@
       "pluginId": "restapi-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
+    "executeOnLoad": false,
     "name": "slack_get_groups",
     "pageId": "Ticket Details",
     "userSetOnLoad": false

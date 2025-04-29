@@ -35,7 +35,7 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
+    "executeOnLoad": false,
     "name": "CreateThreadAndRun",
     "pageId": "Ticket Details",
     "userSetOnLoad": false
